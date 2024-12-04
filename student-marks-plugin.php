@@ -3,7 +3,7 @@
 Plugin Name: Student Marks Plugin
 Description: A plugin to manage student marks.
 Version: 1.1
-Author: Your Name
+Author: Rishab Verma
 */
 
 if (!defined('ABSPATH')) {
